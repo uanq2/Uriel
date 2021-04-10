@@ -1,1 +1,4 @@
-# Uriel
+As I Graphic Designer and Web Developer, I created a portfolio page to show potential employees my experience and samples of my work.
+
+When the employer loads my site, it shows my logo, name and links to my About Me, Artwork samples and how to contact me. When the link buttons are clicked they scroll to the specific section. 
+This is a responsive site. THerefore, when the window size is shrunk, all the elements shrink as the page does.
