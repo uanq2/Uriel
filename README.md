@@ -4,4 +4,6 @@ When the employer loads my site, it shows my logo, name and Illustration. Nav ba
 This is a responsive site. Therefore, when the window size is shrunk, all the elements shrink as the page does.
 
 https://github.com/uanq2/Uriel-Portfolio.git
+
+This is the live view of my portfolio page
 https://uanq2.github.io/Uriel-Portfolio/
