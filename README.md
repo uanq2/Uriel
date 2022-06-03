@@ -7,4 +7,5 @@ This is the live view of my portfolio page deployed via GitHub: https://uanq2.gi
 
 Clone my repo: https://github.com/uanq2/Uriel-Portfolio.git
 
-<img width="1433" alt="Screen Shot 2021-05-29 at 12 53 24 AM" src="https://user-images.githubusercontent.com/68913478/120059704-a4b4ea00-c018-11eb-95ab-06628d463f24.png">
+![Screen Shot 2021-07-25 at 4 38 33 PM](https://user-images.githubusercontent.com/68913478/126915004-4c4f6f66-6e71-47ae-bf9b-05a0c253378e.png)
+
